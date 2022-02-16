@@ -5,8 +5,13 @@ description: 'Two problems: the first problem deals with a distillation column f
   vapor-liquid equilibrium data for mixtures of ethanol and water at one atmosphere
 
   are shown in the attached graph.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-32-separation-processes-spring-2005/e1c3d9643881729b8edce4d97ef9ac6b_10_32_ps2_wgraph.pdf
+file: /media/courses/10-32-separation-processes-spring-2005/e1c3d9643881729b8edce4d97ef9ac6b_10_32_ps2_wgraph.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 10_32_ps2_wgraph.pdf
 uid: e1c3d964-3881-729b-8edc-e4d97ef9ac6b

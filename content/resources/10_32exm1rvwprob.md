@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Quiz with two problems in preparation for Exam 1.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-32-separation-processes-spring-2005/3d86dca636990ec29acf34c439d7c550_10_32exm1rvwprob.pdf
+file: /media/courses/10-32-separation-processes-spring-2005/3d86dca636990ec29acf34c439d7c550_10_32exm1rvwprob.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 10_32exm1rvwprob.pdf
 uid: 3d86dca6-3699-0ec2-9acf-34c439d7c550
