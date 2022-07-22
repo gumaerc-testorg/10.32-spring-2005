@@ -5,6 +5,7 @@ file: /courses/10-32-separation-processes-spring-2005/3d86dca636990ec29acf34c439
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 10_32exm1rvwprob.pdf
 uid: 3d86dca6-3699-0ec2-9acf-34c439d7c550
 ---
 Quiz with two problems in preparation for Exam 1.
-

@@ -6,6 +6,7 @@ file: /courses/10-32-separation-processes-spring-2005/adfa268dae62e7829e6bbdc30d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps4_solution.pdf
 uid: adfa268d-ae62-e782-9e6b-bdc30d011d4f
 ---
 This resource includes the solutions to the problems given in problem set 4.
-
