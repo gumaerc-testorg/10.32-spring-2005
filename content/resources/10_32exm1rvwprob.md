@@ -2,6 +2,7 @@
 content_type: resource
 description: Quiz with two problems in preparation for Exam 1.
 file: /courses/10-32-separation-processes-spring-2005/3d86dca636990ec29acf34c439d7c550_10_32exm1rvwprob.pdf
+file_size: 77286
 file_type: application/pdf
 learning_resource_types:
 - Exams
