@@ -3,6 +3,7 @@ content_type: resource
 description: This resourceincludes solutions to the problems given in problem set
   1.
 file: /courses/10-32-separation-processes-spring-2005/b52f5adf2e774c294b52e5bdc4680de1_10_32ps1solution.pdf
+file_size: 314409
 file_type: application/pdf
 learning_resource_types:
 - Assignments
