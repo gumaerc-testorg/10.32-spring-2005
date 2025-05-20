@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the solutions to the problems refered in problem
   set 3.
-file: /ol-ocw-studio-app/courses/10-32-separation-processes-spring-2005/1fa8e4e7b1d796517792a976a0ea3891_10_32_ps3solution.pdf
+file: /courses/10-32-separation-processes-spring-2005/1fa8e4e7b1d796517792a976a0ea3891_10_32_ps3solution.pdf
 file_size: 124907
 file_type: application/pdf
 learning_resource_types:
